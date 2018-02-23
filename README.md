@@ -1,8 +1,11 @@
 # Front-end-notes
 
 Take the note for my front-end development journey.
+
 The page is still under development.
+
 Use Google spreadsheets as DB.
+
 [Online Website](https://ashleyyang0610.github.io/Front-end-notes/)
 
 ## Requirements
